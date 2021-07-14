@@ -1,6 +1,6 @@
 {
   "name": "file-restrictions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "File restrictions on uploading documents",
   "main": "index.js",
   "scripts": {
